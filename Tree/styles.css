@@ -5,7 +5,7 @@ body {
     display: flex;
     flex-direction: column;
     height: 100vh;
-    background-image: url('/images/pexels-keszthelyit-2350347.jpg');
+    background-image: url('/Tree/images/pexels-keszthelyit-2350347.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
